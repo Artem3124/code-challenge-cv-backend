@@ -1,0 +1,262 @@
+﻿[
+  {
+    "id": 0,
+    "input": [ "A man, a plan, a canal: Panama" ],
+    "expected": true
+  },
+  {
+    "id": 1,
+    "input": [ "racecar" ],
+    "expected": true
+  },
+  {
+    "id": 2,
+    "input": [ "hello" ],
+    "expected": false
+  },
+  {
+    "id": 3,
+    "input": [ "Madam" ],
+    "expected": true
+  },
+  {
+    "id": 4,
+    "input": [ "12321" ],
+    "expected": true
+  },
+  {
+    "id": 5,
+    "input": [ "Was it a car or a cat I saw?" ],
+    "expected": true
+  },
+  {
+    "id": 6,
+    "input": [ "Eva, can I see bees in a cave?" ],
+    "expected": true
+  },
+  {
+    "id": 7,
+    "input": [ "No 'x' in Nixon" ],
+    "expected": true
+  },
+  {
+    "id": 8,
+    "input": [ "Mr. Owl ate my metal worm" ],
+    "expected": true
+  },
+  {
+    "id": 9,
+    "input": [ "Step on no pets" ],
+    "expected": true
+  },
+  {
+    "id": 10,
+    "input": [ "Never odd or even" ],
+    "expected": true
+  },
+  {
+    "id": 11,
+    "input": [ "Aibohphobia" ],
+    "expected": true
+  },
+  {
+    "id": 12,
+    "input": [ "Palindrome" ],
+    "expected": false
+  },
+  {
+    "id": 13,
+    "input": [ "Palindrome!" ],
+    "expected": false
+  },
+  {
+    "id": 14,
+    "input": [ "racecar!" ],
+    "expected": true
+  },
+  {
+    "id": 15,
+    "input": [ "Able was I saw eLba" ],
+    "expected": true
+  },
+  {
+    "id": 16,
+    "input": [ "A Toyota's a Toyota." ],
+    "expected": true
+  },
+  {
+    "id": 17,
+    "input": [ "No lemon, no melon" ],
+    "expected": true
+  },
+  {
+    "id": 18,
+    "input": [ "Evil is a name of a foeman, as I live." ],
+    "expected": true
+  },
+  {
+    "id": 19,
+    "input": [ "Do geese see God?" ],
+    "expected": true
+  },
+  {
+    "id": 20,
+    "input": [ "Rats live on no evil star" ],
+    "expected": true
+  },
+  {
+    "id": 21,
+    "input": [ "A man, a plan, a cat, a ham, a yak, a yam, a hat, a canal-Panama!" ],
+    "expected": true
+  },
+  {
+    "id": 22,
+    "input": [ "A Santa at NASA" ],
+    "expected": true
+  },
+  {
+    "id": 23,
+    "input": [ "A nut for a jar of tuna" ],
+    "expected": true
+  },
+  {
+    "id": 24,
+    "input": [ "Go hang a salami I'm a lasagna hog." ],
+    "expected": true
+  },
+  {
+    "id": 25,
+    "input": [ "Was it a car or a cat I saw?" ],
+    "expected": true
+  },
+  {
+    "id": 26,
+    "input": [ "Aibohphobia" ],
+    "expected": true
+  },
+  {
+    "id": 27,
+    "input": [ "Yo, Banana Boy!" ],
+    "expected": true
+  },
+  {
+    "id": 28,
+    "input": [ "Mr. Owl ate my metal worm" ],
+    "expected": true
+  },
+  {
+    "id": 29,
+    "input": [ "Eva, can I see bees in a cave?" ],
+    "expected": true
+  },
+  {
+    "id": 30,
+    "input": [ "Never odd or even" ],
+    "expected": true
+  },
+  {
+    "id": 31,
+    "input": [ "No 'x' in Nixon" ],
+    "expected": true
+  },
+  {
+    "id": 32,
+    "input": [ "Step on no pets" ],
+    "expected": true
+  },
+  {
+    "id": 33,
+    "input": [ "Madam in Eden, I'm Adam" ],
+    "expected": true
+  },
+  {
+    "id": 34,
+    "input": [ "Able was I ere I saw Elba" ],
+    "expected": true
+  },
+  {
+    "id": 35,
+    "input": [ "Evil is a name of a foeman, as I live." ],
+    "expected": true
+  },
+  {
+    "id": 36,
+    "input": [ "No lemon, no melon" ],
+    "expected": true
+  },
+  {
+    "id": 37,
+    "input": [ "Are we not pure? “No sir!” Panama’s moody Noriega brags. “It is garbage!” Irony dooms a man—a prisoner up to new era." ],
+    "expected": true
+  },
+  {
+    "id": 38,
+    "input": [ "Mr. Owl ate my metal worm" ],
+    "expected": true
+  },
+  {
+    "id": 39,
+    "input": [ "Go hang a salami I'm a lasagna hog." ],
+    "expected": true
+  },
+  {
+    "id": 40,
+    "input": [ "Was it a car or a cat I saw?" ],
+    "expected": true
+  },
+  {
+    "id": 41,
+    "input": [ "Doc, note: I dissent. A fast never prevents a fatness. I diet on cod." ],
+    "expected": true
+  },
+  {
+    "id": 42,
+    "input": [ "Aibohphobia" ],
+    "expected": true
+  },
+  {
+    "id": 43,
+    "input": [ "Yo, Banana Boy!" ],
+    "expected": true
+  },
+  {
+    "id": 44,
+    "input": [ "Red roses run no risk, sir, on Nurse's order." ],
+    "expected": true
+  },
+  {
+    "id": 45,
+    "input": [ "Eva, can I see bees in a cave?" ],
+    "expected": true
+  },
+  {
+    "id": 46,
+    "input": [ "Never odd or even" ],
+    "expected": true
+  },
+  {
+    "id": 47,
+    "input": [ "No 'x' in Nixon" ],
+    "expected": true
+  },
+  {
+    "id": 48,
+    "input": [ "Step on no pets" ],
+    "expected": true
+  },
+  {
+    "id": 49,
+    "input": [ "Madam in Eden, I'm Adam" ],
+    "expected": true
+  },
+  {
+    "id": 50,
+    "input": [ "Able was I ere I saw Elba" ],
+    "expected": true
+  },
+  {
+    "id": 51,
+    "input": [ "Some stuff to test you''r function..." ],
+    "expected": false
+  }
+]

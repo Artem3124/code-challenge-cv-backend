@@ -1,0 +1,20 @@
+// CppTestFramework.cpp : Defines the functions for the static library.
+//
+
+#include "pch.h"
+#include "framework.h"
+#include "Assert.h"
+#include "AssertArrayException.h"
+#include "AssertArrayLengthException.h"
+#include "AssertException.h"
+#include "AssertExceptionBase.h"
+#include "SupportedTypes.h"
+#include "TestContext.h"
+#include "AssertHelpers.h"
+#include "Core.h"
+#include "TestResultWriter.h"
+#include "TestRun.h"
+#include "TestSuite.h"
+#include "TimeoutJobRunner.h"
+#include "TimeoutJobRunner.cpp"
+#include "UnsupportedException.h"

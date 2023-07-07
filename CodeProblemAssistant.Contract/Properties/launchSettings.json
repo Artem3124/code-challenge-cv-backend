@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CodeProblemAssistant.Contract": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50841;http://localhost:50842"
+    }
+  }
+}

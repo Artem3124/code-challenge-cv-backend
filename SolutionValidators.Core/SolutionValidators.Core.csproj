@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CodeProblemAssistant.Contract\CodeProblemAssistant.Contract.csproj" />
+    <ProjectReference Include="..\CodeRunManager.Contract\CodeRunManager.Contract.csproj" />
+    <ProjectReference Include="..\InternalTypes\InternalTypes.csproj" />
+    <ProjectReference Include="..\Mongo.Data\Mongo.Data.csproj" />
+  </ItemGroup>
+
+</Project>

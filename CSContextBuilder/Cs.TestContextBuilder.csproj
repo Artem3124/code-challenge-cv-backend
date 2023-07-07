@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="3.13.3" />
+    <PackageReference Include="NUnitLite" Version="3.13.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CodeProblemAssistant.Contract\CodeProblemAssistant.Contract.csproj" />
+    <ProjectReference Include="..\CodeRunManager.Contract\CodeRunManager.Contract.csproj" />
+    <ProjectReference Include="..\CSCodeAutocompletion\Cs.CodeAutocompletion.csproj" />
+    <ProjectReference Include="..\CSContextBuilder.Core\Cs.TestContextBuilder.Core.csproj" />
+    <ProjectReference Include="..\Shared.Core\Shared.Core.csproj" />
+  </ItemGroup>
+
+</Project>
